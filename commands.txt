@@ -1,0 +1,2 @@
+To run in debug but with local access:
+flask --debug run --host=0.0.0.0
